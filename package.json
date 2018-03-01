@@ -1,0 +1,21 @@
+{
+  "name": "ios-dblclick",
+  "version": "1.0.0",
+  "description":
+    "Directive to handle double click event for web application running on iOS Safari (it works on every browser, but was made because iOS Safari doesn't recognize dblclick event).",
+  "main": "ios-dblclick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onemargaro/ios-dblclick.git"
+  },
+  "keywords": ["double", "click", "ios", "ng-dblclick", "ios-dblclick"],
+  "author": "Mathieu Savy <mathieu.savy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onemargaro/ios-dblclick/issues"
+  },
+  "homepage": "https://github.com/onemargaro/ios-dblclick#readme"
+}
