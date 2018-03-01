@@ -12,10 +12,10 @@ Use it exactly like `ng-dblclick` directive by passing it a function to execute 
 
 ## Installation
 
-Get source file using bower or simply download it from Github.
+Get source file using npm or simply download it from Github.
 
 ```
-bower install --save ios-dblclick
+npm install --save ios-dblclick
 ```
 
 Include `ios-dblclick.js` in your `index.html` file.
